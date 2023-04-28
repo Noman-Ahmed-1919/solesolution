@@ -17,11 +17,10 @@ const Contact = () => {
 
   return (
     <>
-      <Mobileheader />
 
 
 
-      <div className="container">
+      <div className="container-fluid" id="mainlogoback">
         <div className="row">
           <div className="col-12">
             <div className="newmain">
@@ -30,6 +29,9 @@ const Contact = () => {
           </div>
         </div>
       </div>
+
+
+      <Mobileheader/>
 
 
 

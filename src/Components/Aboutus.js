@@ -17,9 +17,9 @@ import Key from "./Key";
 const Aboutus = () => {
   return (
     <>
-                <Mobileheader/>
 
-                <div className="container">
+       
+<div className="container-fluid" id="mainlogoback">
         <div className="row">
           <div className="col-12">
             <div className="newmain">
@@ -28,7 +28,9 @@ const Aboutus = () => {
           </div>
         </div>
       </div>
+                <Mobileheader/>
 
+        
       
 
       <section id="abosec1">

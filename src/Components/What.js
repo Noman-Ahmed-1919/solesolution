@@ -16,7 +16,8 @@ const What = () => {
 
         <div className="row">
 
-          <div className="col-lg-3" data-aos="fade-right"  data-aos-delay="800" data-aos-easing="ease-in-sine">
+        {/* data-aos="fade-right"  data-aos-delay="800" data-aos-easing="ease-in-sine" */}
+          <div className="col-lg-3" data-aos="fade-down"  data-aos-delay="800" data-aos-easing="ease-in-sine" >
             <img className="test1" src={test3} />
 
             {/* <div className="tests"> */}
@@ -31,7 +32,8 @@ const What = () => {
             {/* </div> */}
           </div>
 
-          <div className="col-lg-6" data-aos="flip-left"  data-aos-delay="800">
+          {/* data-aos="flip-left"  data-aos-delay="800" */}
+          <div className="col-lg-6" >
             <img className="test2" src={test1} />
             <h4 className="Muhammad">MUHAMMAD MOOSA</h4>
             <p className="the">
@@ -43,7 +45,8 @@ const What = () => {
             </p>
           </div>
 
-          <div className="col-lg-3"  data-aos="fade-left"  data-aos-delay="800" data-aos-easing="ease-in-sine">
+          {/* data-aos="fade-left"  data-aos-delay="800" data-aos-easing="ease-in-sine" */}
+          <div className="col-lg-3" data-aos="fade-down"  data-aos-delay="800" data-aos-easing="ease-in-sine">
             <img className="test11" src={test3} />
             <h4 className="shehryl">SHEHRYL DAVID</h4>
             <p className="my">MY IELTS CLASSES WAS THE BEST EXPERIENCE WITH BRIGHTIOS<br></br> ENGLISH CAFE. SIR SALEEM TAUGHT ME ALL THE IMPORTANT<br></br> TIPS WHICH HELPS ME TO CLEAR MY EXAM WITH AN OVERALL<br></br> 8.5 BAND SCORE.</p>
