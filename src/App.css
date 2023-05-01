@@ -31,9 +31,7 @@ html{
   width: 100%;
  padding-top: 253px;
 }
-.padd{
-  padding: 0px;
-}
+
 .newmain{
 background-image: linear-gradient(to right,#6A8EC8,white,#7798CD);
 margin-top: 20px;
@@ -1849,20 +1847,22 @@ display: none;
 
 #stusec1{
   background-image: url(./images/stuback1.png);
-  height: 1350px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 50px;
+    padding-bottom: 50px;
 
 }
 #stusec3{
   background-image: url(./images/stuimg33.png);
-  height: 1450px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .dotflex{
@@ -1896,7 +1896,6 @@ display: none;
     font-weight: 800;
     color: #6A8EC8;
     margin-bottom: 80px;
-    margin-top: 30px;
 }
 
 #stusec2{
@@ -1904,10 +1903,10 @@ display: none;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 800px;
   margin-top: 100px;
   margin-bottom: 100px;
   padding-top: 60px;
+  padding-bottom: 100px;
 
 }
 #stusec4{
@@ -1915,10 +1914,10 @@ display: none;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 800px;
   margin-top: 100px;
   margin-bottom: 0px;
   padding-top: 60px;
+  padding-bottom: 60px;
 }
 .logostu2{
   text-align: center;
@@ -2112,7 +2111,7 @@ display: none;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 1800px;
+  padding-bottom: 100px;
  
 }
 .ieltsengimg{
@@ -2128,11 +2127,10 @@ display: none;
 
 }
 .h2which{
-  text-align: left;
+  text-align: center;
   color: white;
   font-style: italic;
-  padding-left: 40px;
-  padding-right: 40px;
+  
   font-size: 42px;
 }
 .pifyou{
@@ -2140,7 +2138,8 @@ display: none;
   color: white;
   padding-left: 40px;
   padding-right: 40px;
-  font-size: 24px;
+  font-size: 22px;
+  text-align: center;
 }
 #check{
   background-color: #0071BB;
@@ -3513,14 +3512,7 @@ margin-top: 100px;
 
 @media screen and (max-width: 767.5px) and (min-width: 200px){
 
-  .h1major {
-    text-align: center;
-    font-size: 44px;
-    font-weight: 800;
-    color: #6A8EC8;
-    margin-bottom: 80px;
-    margin-top: 47px;
-}
+
 .eng{
   width: auto;
 }
@@ -3536,7 +3528,7 @@ margin-top: 100px;
 }
 .law {
   width: auto;
-  margin-top: 20px;
+  margin-top: 0px;
 
 }
 .art {
@@ -3561,9 +3553,9 @@ margin-top: 100px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 1750px;
   margin-top: 100px;
   margin-bottom: 100px;
+  padding-bottom: 50px;
 }
 }
 
@@ -3572,11 +3564,30 @@ margin-top: 100px;
 
   .h1major {
     text-align: center;
-    font-size: 28px;
+    font-size: 30px;
     font-weight: 800;
     color: #6A8EC8;
-    margin-bottom: 80px;
-    margin-top: 47px;
+    margin-bottom: 45px;
+}
+
+.h1stuu {
+  color: white;
+    margin-top: 27px;
+    margin-left: 9px;
+    font-size: 30px;
+}
+.ieltsengimg {
+  display: flex;
+  text-align: center;
+  margin-top: 70px;
+  justify-content: center;
+  height: 96px;
+}
+.h2which {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-size: 30px;
 }
 
 }
@@ -3602,7 +3613,7 @@ margin-top: 100px;
 }
 .newzea {
   width: auto;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 .european {
   width: auto;
@@ -3619,9 +3630,9 @@ margin-top: 100px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  height: 1730px;
   margin-top: 100px;
   margin-bottom: 100px;
+
 }
 
 }
@@ -3633,20 +3644,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 1630px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 1750px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 }
 
@@ -3658,20 +3671,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 1712px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 1950px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .h1why {
@@ -3680,7 +3695,6 @@ margin-top: 100px;
   font-weight: 800;
   color: #6A8EC8;
   margin-bottom: 21px;
-  margin-top: 30px;
 }
 }
 
@@ -3693,20 +3707,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 1912px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 2050px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .h1why {
@@ -3715,7 +3731,6 @@ margin-top: 100px;
   font-weight: 800;
   color: #6A8EC8;
   margin-bottom: 21px;
-  margin-top: 30px;
 }
 }
 
@@ -3728,20 +3743,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 2012px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 2250px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .h1why {
@@ -3750,7 +3767,6 @@ margin-top: 100px;
   font-weight: 800;
   color: #6A8EC8;
   margin-bottom: 21px;
-  margin-top: 30px;
 }
 }
 
@@ -3762,20 +3778,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 2212px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 2450px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .h1why {
@@ -3796,20 +3814,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 2412px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 2650px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .h1why {
@@ -3818,7 +3838,6 @@ margin-top: 100px;
   font-weight: 800;
   color: #6A8EC8;
   margin-bottom: 21px;
-  margin-top: 30px;
 }
 .pthere {
   color: white;
@@ -3837,20 +3856,22 @@ margin-top: 100px;
 
   #stusec1 {
     background-image: url(./images/stuback1.png);
-    height: 2612px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #stusec3 {
   background-image: url(./images/stuimg33.png);
-  height: 2850px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin-top: 100px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .h1why {
@@ -3859,7 +3880,6 @@ margin-top: 100px;
   font-weight: 800;
   color: #6A8EC8;
   margin-bottom: 21px;
-  margin-top: 30px;
 }
 .pthere {
   color: white;
@@ -3991,33 +4011,7 @@ margin-top: 100px;
 
 
 
-@media screen and (max-width: 1200px) and (min-width: 992px){
-  #engstudies {
-    background-image: url(./images/engbackimg.png);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 1516px;
-}
 
-.pifyou {
-  text-align: left;
-  color: white;
-  padding-left: 40px;
-  padding-right: 40px;
-  font-size: 20px;
-}
-
-.h2which {
-  text-align: left;
-  color: white;
-  font-style: italic;
-  padding-left: 40px;
-  padding-right: 40px;
-  font-size: 32px;
-  margin-top: -17px;
-}
-}
 
 
 
@@ -4027,23 +4021,21 @@ margin-top: 100px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 1516px;
+    padding-bottom: 100px;
 }
 
 .pifyou {
-  text-align: left;
+  text-align: center;
   color: white;
-  padding-left: 40px;
-  padding-right: 40px;
+  
   font-size: 20px;
 }
 
 .h2which {
-  text-align: left;
+  text-align: center;
   color: white;
   font-style: italic;
-  padding-left: 40px;
-  padding-right: 40px;
+
   font-size: 32px;
   margin-top: -17px;
 }
@@ -4058,34 +4050,69 @@ margin-top: 100px;
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 1683px;
+padding-bottom: 100px;
+
 }
 
 .pifyou {
-  text-align: left;
+  text-align: center;
   color: white;
-  padding-left: 40px;
-  padding-right: 40px;
+  
   font-size: 20px;
 }
 
 .h2which {
-  text-align: left;
+  text-align: center;
   color: white;
   font-style: italic;
-  padding-left: 40px;
-  padding-right: 40px;
+ 
   font-size: 32px;
   margin-top: -17px;
 }
 }
 
-
 @media screen and (max-width: 768px) and (min-width: 200px){
 
-#hidesubsec{
-  display: none;
+
+.ieltsengimg {
+  display: flex;
+  text-align: center;
+  margin-top: 40px;
+  justify-content: center;
+  height: 96px;
 }
+
+.h1stuu {
+  color: white;
+  margin-top: 29px;
+  margin-left: 15px;
+  font-size: 30px;
+}
+.h2which {
+  text-align: center;
+  color: white;
+  font-style: italic;
+  font-size: 31px;
+}
+
+
+}
+
+@media screen and (max-width: 768px) and (min-width: 556px){
+
+
+  
+  .h1major {
+    text-align: center;
+    font-size: 38px;
+    font-weight: 800;
+    color: #6A8EC8;
+    margin-bottom: 55px;
+    margin-top: 40px;
+  }
+  
+
+
 }
 
 
@@ -4116,7 +4143,17 @@ margin-top: 100px;
 margin-top: 150px;
 }
 
-
+@media screen and (max-width: 556px) and (min-width: 200px){
+  .newcsssec1{
+    padding-top: 200px !important;
+    }
+}
 .newcsssec1{
-  margin-top: 233px;
+padding-top: 256px;
+}
+
+
+
+.padd{
+  padding: 0px;
 }

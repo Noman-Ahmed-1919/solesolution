@@ -1,5 +1,6 @@
 import React from "react";
 import logo from "../images/logo.png";
+import { NavLink } from "react-router-dom";
 
 const Mobileheader = () =>{
     return(
@@ -21,26 +22,24 @@ const Mobileheader = () =>{
   <div className="collapse navbar-collapse homenav" id="navbarSupportedContent">
     <ul className="navbar-nav mr-auto" id="headerrnava" >
       <li className="nav-item active">
-        <a to="/"   id="aboutaa" style={{ color: "Black",  }} className="nav-link" >
+        <NavLink to="/"   id="aboutaa" style={{ color: "Black",  }} className="nav-link" >
              Home
-        </a>
+        </NavLink>
       </li>
    
       <li className="nav-item">
-        <a to="/Stico"  id="abouta" style={{ color: "Black"  }} className="nav-link" >   ABOUT US</a>
+        <NavLink to="/about"  id="abouta" style={{ color: "Black"  }} className="nav-link" >   ABOUT US</NavLink>
       </li>
       <li className="nav-item">
         <a  id="abouta1" style={{ color: "Black"  }} className="nav-link" href="#services"> BLOG</a>
       </li>
       <li className="nav-item">
-        <a  id="abouta2" style={{ color: "Black"  }} className="nav-link" href="#sec4">  OUR SERVICES</a>
+        <NavLink to="/#servicesec"  id="abouta2" style={{ color: "Black"  }} className="nav-link" href="#sec4">  OUR SERVICES</NavLink>
       </li>
       <li className="nav-item">
-        <a  id="abouta3" style={{ color: "Black"  }} className="nav-link" href="#utility">  CONTACT US</a>
+        <NavLink  to="/cont" id="abouta3" style={{ color: "Black"  }} className="nav-link" href="#utility">  CONTACT US</NavLink>
       </li>
-      <li className="nav-item">
-        <a  id="abouta4" style={{ color: "Black"  }}  className="nav-link con" href="#utility">  Contact</a>
-      </li>
+    
 
       
      

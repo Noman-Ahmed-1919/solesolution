@@ -12,7 +12,8 @@ const Immislider = ()=>{
         <>
         
 
-        <div className="container">
+      
+        <div className="container-fluid" id="mainlogoback">
         <div className="row">
           <div className="col-12">
             <div className="newmain">

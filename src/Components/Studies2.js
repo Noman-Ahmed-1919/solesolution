@@ -19,37 +19,41 @@ export function Studies2() {
        <br></br>
        <br></br>
 
-       <h2 className="h2which">Which IELTS test type is right for me?</h2>
-       <p className="pifyou">If you want to move to an English-speaking country to study, then you should take the IELTS Academic test.</p><br></br>
-       <p className="pifyou">For work or immigration, the IELTS General Training test is recommended.</p>
+       <h2 className="h2which">We are Cambridge Assessment English</h2>
+       <br></br>
+       <p className="pifyou">Part of the University of Cambridge, we help millions of people learn English and prove their skills to the world.
+
+For us, learning English is more than just exams and grades. It’s about having the confidence to communicate and access a lifetime of enriching experiences and opportunities.
+
+With the right support, learning a language is an exhilarating journey. We’re there with learners, every step of the way.
+</p><br></br>
 
     <br></br>
     <br></br>
-    <h2 className="h2which">IELTS for study</h2>
+    <h2 className="h2which">Our qualifications and tests </h2>
 <br></br>
-    <p className="pifyou">Over 5.3 million students study abroad every year. Many students study in English-speaking countries, such as Australia, Canada, New Zealand, the UK and the USA.
-</p><br></br>
-<p className="pifyou">Studying in an English-speaking country offers lots of opportunities. It can also allow you to specialise in a particular field or gain employment once you have finished your education.
-</p>    <br></br>
-<p className="pifyou">IELTS is recognised by more than 11,000 organisations, including educational institutes and professional bodies. Some universities in non-English-speaking countries also require an IELTS score for courses taught in English.</p>
+    <p className="pifyou">We provide the world’s leading range of qualifications and tests for learners and teachers of English:
+    </p>
     <br></br>
     <br></br>
-
-    <h2 className="h2which">IELTS Academic</h2><br></br>
-    <p className="pifyou">IELTS Academic is suitable for those wanting to study at an English-speaking university. You can also take IELTS Academic for professional registration purposes.
+    <h2 className="h2which">Cambridge English Teaching</h2><br></br>
+    <p className="pifyou">Our qualifications and tests are accepted by over 25,000 organisations worldwide, and provide the English language skills to communicate and succeed in the real world.
 </p><br></br>
 
-<p className="pifyou">IELTS Academic can be taken in a test centre (on paper or on computer) or remotely online. Before booking your test, please check which formats of the test your organisation accepts.</p>
-    <br></br>
-    <br></br>
 
-    <h2 className="h2which">IELTS General Training
+    <h2 className="h2which">A few facts and figures about us 
+
 </h2><br></br>
 
-<p className="pifyou">IELTS General Training is required for applications to work in and migrate to Australia, Canada, New Zealand and the UK. The test features everyday English language skills that you will need in social and workplace environments.
+<p className="pifyou">* More than 5.5 million people take our qualifications and tests every year.
+
+* We have over 2,800 exam centres in 130 countries.
+
+* Over 50,000 preparation centres around the world prepare learners to take our exams.
+
+* We’ve been providing English language assessment since 1913. 
 </p><br></br>
 
-<p className="pifyou">The IELTS General Training test is also suitable for those applying to study at an English-speaking school or college below degree level.</p>
 
 
 

@@ -19,38 +19,44 @@ export function Studies3() {
        <br></br>
        <br></br>
 
-       <h2 className="h2which">Which IELTS test type is right for me?</h2>
-       <p className="pifyou">If you want to move to an English-speaking country to study, then you should take the IELTS Academic test.</p><br></br>
-       <p className="pifyou">For work or immigration, the IELTS General Training test is recommended.</p>
+       <h2 className="h2which">Why Choose the TOEFL iBT?</h2>
+       <br></br>
+       <p className="pifyou">Accepted and preferred by universities worldwide, the TOEFL® test is a high-quality, high-standard test that assures admissions officers of your readiness for the classroom and beyond. More than 35 million people worldwide have chosen the TOEFL test to demonstrate their English-language proficiency. Here's why.
+</p>
 
     <br></br>
     <br></br>
-    <h2 className="h2which">IELTS for study</h2>
+    <h2 className="h2which">Accepted and Preferred Worldwide </h2>
 <br></br>
-    <p className="pifyou">Over 5.3 million students study abroad every year. Many students study in English-speaking countries, such as Australia, Canada, New Zealand, the UK and the USA.
-</p><br></br>
-<p className="pifyou">Studying in an English-speaking country offers lots of opportunities. It can also allow you to specialise in a particular field or gain employment once you have finished your education.
-</p>    <br></br>
-<p className="pifyou">IELTS is recognised by more than 11,000 organisations, including educational institutes and professional bodies. Some universities in non-English-speaking countries also require an IELTS score for courses taught in English.</p>
-    <br></br>
-    <br></br>
-
-    <h2 className="h2which">IELTS Academic</h2><br></br>
-    <p className="pifyou">IELTS Academic is suitable for those wanting to study at an English-speaking university. You can also take IELTS Academic for professional registration purposes.
+    <p className="pifyou">Get in at more universities. The TOEFL iBT® test is the world's most accepted English-language test for study, work and immigration. It is preferred by more universities and institutions, so you can be confident you’ll stand out to admissions officers where it counts.
 </p><br></br>
 
-<p className="pifyou">IELTS Academic can be taken in a test centre (on paper or on computer) or remotely online. Before booking your test, please check which formats of the test your organisation accepts.</p>
-    <br></br>
-    <br></br>
 
-    <h2 className="h2which">IELTS General Training
+    <h2 className="h2which">A Better Test Experience </h2><br></br>
+    <p className="pifyou">Feel confident in your ability to succeed. Recent enhancements and added benefits to the TOEFL iBT test, including MyBest™ scores and a free practice test, provide you with a better testing experience from start to finish to help you do your best.
+</p><br></br>
+
+
+
+    <h2 className="h2which">Get the Advantage You Need to Succeed 
 </h2><br></br>
 
-<p className="pifyou">IELTS General Training is required for applications to work in and migrate to Australia, Canada, New Zealand and the UK. The test features everyday English language skills that you will need in social and workplace environments.
+<p className="pifyou">The TOEFL iBT® test helps you stand out confidently in English, and it comes with a clear advantage — universities know you are ready to succeed.
+
+That's why it's accepted by more than 11,000 universities and other institutions in over 150 countries, including Australia, Canada, New Zealand, the United States, the U.K., and across Europe and Asia.
+
+Conveniently offered weekly at authorized test centers near you, the computer-delivered TOEFL iBT test is the only test that measures all 4 academic English skills — reading, listening, speaking, and writing — the way they are actually used in a classroom. So your TOEFL® scores provide a true reflection of your abilities and show admissions officers you have what it takes to be great. See the full list of countries where the TOEFL iBT test is available.
 </p><br></br>
 
-<p className="pifyou">The IELTS General Training test is also suitable for those applying to study at an English-speaking school or college below degree level.</p>
 
+
+<h2 className="h2which">Take the TOEFL iBT® Test 
+</h2><br></br>
+
+<p className="pifyou">When your goal is university study, choose the test that helps you stand out to admissions officers and arrive on campus better prepared for the academic English demands of a university classroom. 90% of TOEFL® test takers surveyed got into their 1st or 2nd choice university,1 and you can, too! Are you ready to put that advantage to work for you? Let's take a closer look at how you'll register for the test, and what you need to know before you do.
+
+
+</p><br></br>
 
 
 

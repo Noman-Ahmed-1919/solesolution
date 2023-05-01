@@ -20,6 +20,7 @@ export function Studies() {
        <br></br>
 
        <h2 className="h2which">Which IELTS test type is right for me?</h2>
+       <br></br>
        <p className="pifyou">If you want to move to an English-speaking country to study, then you should take the IELTS Academic test.</p><br></br>
        <p className="pifyou">For work or immigration, the IELTS General Training test is recommended.</p>
 
